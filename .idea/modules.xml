@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/another/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/another/.mvn/.mvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Microservices.iml" filepath="$PROJECT_DIR$/.idea/Microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/another /another.iml" filepath="$PROJECT_DIR$/another /another.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crudApp/crud-app.iml" filepath="$PROJECT_DIR$/crudApp/crud-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery/discovery.iml" filepath="$PROJECT_DIR$/discovery/discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/another/src/main/main.iml" filepath="$PROJECT_DIR$/another/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/message/message.iml" filepath="$PROJECT_DIR$/message/message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/another/src/test/test.iml" filepath="$PROJECT_DIR$/another/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
